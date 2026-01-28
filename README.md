@@ -11,7 +11,6 @@
 
 
 A modern, role‑based food ordering frontend built with **React (Create React App)**, **Tailwind CSS**, and a clean scalable architecture inspired by Sanatan values 🌿.
-
 ---
 
 ## 📁 Actual Frontend File Structure
