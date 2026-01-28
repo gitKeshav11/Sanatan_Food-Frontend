@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=E91E63&center=true&vCenter=true&width=900&lines=Sanatan+Food+Frontend+%F0%9F%AA%94;Taste+the+Tradition+with+Modern+Tech;React+%7C+Tailwind+%7C+Role-Based+UI" alt="Typing SVG" />
 </p>
 
+
 #  Sanatan Food – Frontend (React)
 
 
